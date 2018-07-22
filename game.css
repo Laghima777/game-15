@@ -1,0 +1,69 @@
+.z{
+width:400px;
+height:140px;
+margin-left:35%;
+margin-top:50px;
+background-image:url("start.png");
+background-size:100% 100%;
+}
+.x{
+width:400px;
+height:140px;
+margin-left:35%;
+margin-top:20px;
+background-image:url("records.png");
+background-size:100% 100%;
+}
+body{
+	background-image:url("forest.jpg");
+	background-size:100% 100%;
+}
+.y{
+width:400px;
+height:140px;
+margin-left:35%;
+margin-top:20px;
+background-image:url("exit.png");
+background-size:100% 100%;
+}
+.arr{
+width:140px;
+height:140px;
+background-color:red;
+background-size:100% 100%;
+border:5px solid green;
+float:left;
+}
+.arr:hover{
+border:5px solid black;
+}
+.cont{
+margin:auto;
+width:600px;
+height:600px;
+background-color:gray;
+}
+.z:hover{
+width:415px;
+height:155px;	
+}
+.x:hover{
+width:415px;
+height:155px;	
+}
+.y:hover{
+width:415px;
+height:155px;	
+}
+.b{
+width:300px;
+height:100px;
+margin-left:1%;
+margin-top:10px;
+background-image:url("back.png");
+background-size:100% 100%;
+}
+.b:hover{
+width:315px;
+height:115px;	
+}
